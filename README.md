@@ -1,2 +1,3 @@
-# transduction
-Repository for "Transduction Literacies" talk at MLA 2015 in Vancouver
+# Executable Culture, Arguments with Objects
+Repository for keynote at XDM, Waterloo (10 April 2015)
+ 
